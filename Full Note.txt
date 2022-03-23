@@ -1,0 +1,11 @@
+- Model 	→ Representasi Pengetahuan.
+- Model 	→ Berfungsi untuk mengelola data.
+- Model 	→ Logika bisnis.
+
+- View 		→ Output, apa yang dilihat oleh user.
+- View 		→ Representasi visual dari model.
+- View 		→ Lapisan Presentasi.
+
+- Controller 	→ Perantara antara model dan view.
+- Controller	→ Berfungsi untuk menangani pemrosesan pada aplikasi.
+- Controller 	→ Menangani aksi dari user.
