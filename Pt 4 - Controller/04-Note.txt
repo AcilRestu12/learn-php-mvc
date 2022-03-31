@@ -1,0 +1,17 @@
+- method_exists() 	~> Berfungsi untuk mengecek ada atau tidaknya method di suatu object.
+- method_exists(<object>, <nama method>);
+
+- isset() 		~> Berfungsi untuk memeriksa apakah suatu variabel sudah diatur atau belum.
+- isset(<variabel>);
+
+- unset() 		~> Berfungsi untuk membuang/menghapus suatu variabel.
+- unset(<variabel>);
+
+- call_user_func_array() ~> Berfungsi untuk menjalankan controller & method, serta untuk mengirimkan parameter jika ada.
+- call_user_func_array( [<controller>, <method>], <parameter> );
+
+- empty() 		~> Berfungsi untuk mengecek kosong atau tidak suatu array.
+- empty(<array>);
+
+- array_values() 	~> Berfungsi untuk memasukkan suatu nilai pada suatu array.
+- <array> = array_values(<nilai>);
