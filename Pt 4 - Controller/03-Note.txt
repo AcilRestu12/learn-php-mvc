@@ -1,0 +1,9 @@
+- rtrim() 	~> Berfungsi untuk menghilangkan karakter pilihan di akhir string.
+- rtrim(<variabel string>, ‘<karakter terakhir yg ingin dihilangkan>’);
+
+- filter_var() 	~> Berfungsi untuk memfilter suatu variabel dengan metode filter tertentu.
+- filter_var(<variabel yg ingin difilter>, <metode filter yg ingin digunakan>);
+    - FILTER_SANITIZE_URL ~> Berfungsi untuk membersihkan url dari karakter-karakter yg aneh.
+
+- explode()	~> Berfungsi untuk memecah suatu string dengan delimiter (pemisah) tertentu.
+- explode(<delimiter>, <variabel string>);
