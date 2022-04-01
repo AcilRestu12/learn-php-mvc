@@ -1,3 +1,4 @@
 <?php
 
-define('BASEURL', 'http://localhost/phpmvc/Pt%206%20-%20Assets/public');
+// Mendefinisikan suatu variabel sebagai base url-nya
+define('BASEURL', 'http://localhost/phpmvc/06-Assets/public');
