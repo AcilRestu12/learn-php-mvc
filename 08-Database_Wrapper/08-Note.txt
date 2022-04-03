@@ -1,0 +1,8 @@
+- is_null() 	~> Berfungsi untuk mengecek apakah tipenya null atau bukan.
+- is_null(<variabel>);
+
+- is_int()	~> Berfungsi untuk mengecek apakah tipenya integer atau bukan.
+- is_int(<variabel>);
+
+- is_bool() 	~> Berfungsi untuk mengecek apakah tipenya boolean atau bukan.
+- is_bool(<variabel>);
