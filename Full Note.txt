@@ -63,5 +63,16 @@ Pt 8 :
 
 
 
+Pt 12 :
+
+- $(’<css selector>’).on(’click’, function() { <action> }); ~> Berfungsi untuk menjalankan suatu function saat suatu class/id diklik.
+
+- $(’<css selector>’).html()                                ~> Berfungsi untuk mengubah isi html dari suatu class/id.
+- $(’<css selector>’).html(<isi html>);
+
+- json_encode()                                             ~> Berfungsi untuk mengubah nilai-nilai di PHP menjadi dalam bentuk json.
+- json_encode(<nilai-nilai di PHP>);
+
+
 
 
